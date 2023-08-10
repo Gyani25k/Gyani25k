@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyani25k" alt="gyani25k" /></a> </p>
 
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+
 - 📫 How to reach me **kgyanender4@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14ECBWNEpYdsVzzPd1z9_HPq5mT4TT9qi/view?usp=sharing](https://drive.google.com/file/d/14ECBWNEpYdsVzzPd1z9_HPq5mT4TT9qi/view?usp=sharing)
