@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
+- 👨‍💻 All of my projects are available at [Protfolio](https://my-protfolio-git-main-gyani25k.vercel.app/)
+
 - 📫 How to reach me **kgyanender4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14ECBWNEpYdsVzzPd1z9_HPq5mT4TT9qi/view?usp=sharing](https://drive.google.com/file/d/14ECBWNEpYdsVzzPd1z9_HPq5mT4TT9qi/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/14ECBWNEpYdsVzzPd1z9_HPq5mT4TT9qi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
