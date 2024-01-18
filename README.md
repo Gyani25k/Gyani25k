@@ -20,6 +20,7 @@
 <a href="https://www.hackerrank.com/kgyanender4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kgyanender4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kgyanender4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kgyanender4" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<kgyanender4>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<kgyanender4>/profile" height="30" width="40" /></a>
+<a href="https://gitlab.com/kgyanender01" target="blank"><img align="center" src="https://yt3.googleusercontent.com/R6P5skGdZJeM1bebvt3ILeU8k-9tiqE5T198RmBH8SoGXH2gk_Lk-45uZoq6X6pW4a4c9Sqn=s900-c-k-c0x00ffffff-no-rj" alt="kgyanender01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
