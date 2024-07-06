@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kgyanender4@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1ndHvv3aUV7CA2PeXu08MtgK2RbuOj7Di/view)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1jxaolneCsbNvXrjZgHL87OrVGKqTn4K4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
